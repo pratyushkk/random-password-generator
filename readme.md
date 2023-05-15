@@ -1,7 +1,5 @@
-# Random Password Generator
+## Random Password Generator
 
-## Live Link -
-
-###
+### Live Link -
 
 ![Project-1](./images/Screenshot.jpeg)
