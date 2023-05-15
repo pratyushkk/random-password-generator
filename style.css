@@ -11,13 +11,13 @@ body {
 }
 
 .container {
-  margin: 12%;
+  margin: 7%;
   width: 90%;
   max-width: 700px;
 }
 
 .display {
-  width: 100%;
+  max-width: 97%;
   margin-top: 50px;
   margin-bottom: 30px;
   background: #fff;
@@ -73,8 +73,7 @@ body {
   background-position-x: initial;
   background-position-y: initial;
   background-size: initial;
-  background-repeat-x: initial;
-  background-repeat-y: initial;
+
   background-attachment: initial;
   background-origin: initial;
   background-clip: initial;
